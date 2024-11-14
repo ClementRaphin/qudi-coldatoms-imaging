@@ -1,9 +1,8 @@
-# qudi-iqo-modules
+# qudi-coldatoms-imaging
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 ---
-A collection of qudi measurement modules originally developed for experiments on color centers in 
-semiconductor materials.
+A collection of tools used for detection and image processing of 87Rb cold atoms, built using the qudi framework.
 
 
 
